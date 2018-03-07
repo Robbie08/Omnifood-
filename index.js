@@ -1,4 +1,4 @@
-const express = require('express'); //import 
+const express = require('express');
 const port = process.env.PORT || 3000;
 const app = express(); //creates an express application
 var path = require('path');
