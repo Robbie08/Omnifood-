@@ -1,0 +1,77 @@
+[33mcommit dac1f81289070a98a695cadf47bcaa90fa748486[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Thu Mar 8 00:08:54 2018 -0800
+
+    Resoponsive to Phones and Small Tablets
+
+[33mcommit 56246b85ea6b18a4f85b99d9eaa9c47fd7ccc7af[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Wed Mar 7 00:07:44 2018 -0800
+
+    Responsive Design (Big Tablets -> Small Tablets
+
+[33mcommit f560f0f8818311b46789c0d0124279ec0d500067[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Tue Mar 6 17:43:05 2018 -0800
+
+    Finished Footer (HTML/CSS)
+
+[33mcommit 99bbc145b5459dc22fe2d5ce183624d2e1a16b54[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Tue Mar 6 10:56:10 2018 -0800
+
+    Finished Form Section (HTML/CSS)
+
+[33mcommit 8b678ff8d91924bc332affcb37797973beaec48b[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Thu Mar 1 10:24:12 2018 -0800
+
+    BUG FIX: horizontal scroll
+
+[33mcommit b5321974a761c17c5c7c7a5738131d08e3447e13[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Wed Feb 28 21:05:08 2018 -0800
+
+    EXPRESS, HEROKU UPDATES
+
+[33mcommit 1563fe1d6e0719aec4bbfd81c0f2dd8897b9a1e1[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Tue Feb 27 21:39:55 2018 -0800
+
+    Sing up and pricing section FINISHED
+
+[33mcommit 0f207071c276515f80b50c46b30d85e12618b018[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Tue Feb 27 10:44:01 2018 -0800
+
+    Sign up and pricing plans sections(HTML)
+
+[33mcommit a789d5ece1809ca6bc96c7bcbe941169eaf51bd3[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Mon Feb 26 23:28:34 2018 -0800
+
+    Finished Testimonials Section (CSS + HTML)
+
+[33mcommit 4f9efda9c8b8ec8bb29094b502812652a9af2a8a[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Mon Feb 26 22:32:09 2018 -0800
+
+    Started Testimonials Section (HTML ONLY)
+
+[33mcommit d4a306dbedd321a27b15d33b391dc0818bbc53e9[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Mon Feb 26 22:18:34 2018 -0800
+
+    Completed Cities Sections
+
+[33mcommit 93fa5cfe784cba195374fb8f8ddda98af77a8fd8[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Sun Feb 25 20:18:44 2018 -0800
+
+    First Project Commit
+
+[33mcommit e41e845b072e5a015e045532122d41be7e969fed[m
+Author: ortiz <Roberinho08@gmail.com>
+Date:   Sun Feb 25 20:09:57 2018 -0800
+
+    First commit

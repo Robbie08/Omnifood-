@@ -81,4 +81,17 @@
 @media only screen and (max-width: 480px) {
     section { padding: 25px 0;}
     .contact-form {width: 100%; }
+    
+    h1{font-size: 150%;}
+    
+    .footer-nav li,
+    .social-links li {
+        margin-right: 7.5px;  
+    }
+    
+    .social-links {
+    position: relative;
+    float: left;
+    left:35%;
+    }
 }
